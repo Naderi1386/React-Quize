@@ -1,0 +1,17 @@
+export enum ActionTypes {
+  Fetching = "Fetching",
+  Status = "Status",
+  Err = "Err",
+  Index = "Index",
+  Answer = "Answer",
+  Points = "Points",
+  ResetAnswer = "ResetAnswer",
+  HighScore = "HighScore",
+  Restart = "Restart",
+  Time = "Time",
+  Start = "Start",
+  CorrectAnswers = "CorrectAnswers",
+  OnEasy = "OnEasy",
+  OnHard = "OnHard",
+  OnAll = "OnAll",
+}
